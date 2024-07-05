@@ -1,7 +1,7 @@
-[![MasterHead](https://www.menosfios.com/wp-content/uploads/2016/04/software-development-banner.jpg)](https://Atul-111.io)
+![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
 <h1 align="center">Hi 👋, I'm Atul Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="300" height="300" src="https://png.pngtree.com/png-clipart/20230916/original/pngtree-cartoon-man-working-together-in-a-chair-and-the-computer-clipart-png-image_12253738.png">
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-111&label=Profile%20views&color=0e75b6&style=flat" alt="atul-111" /> </p>
 
