@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Atul Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://github.com/Atul-111/Branch/assets/150317656/0da9d26e-3995-4226-aa26-a115ac652fb7">
+<img align="right" alt="Coding" width="700" height= "350" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-111&label=Profile%20views&color=0e75b6&style=flat" alt="atul-111" /> </p>
 
