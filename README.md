@@ -1,4 +1,4 @@
-![MasterHead](https://as2.ftcdn.net/v2/jpg/05/67/40/31/1000_F_567403147_WjV5fqGRjjPUkBOnXaaREKgVjZMC12M7.jpg)
+
 <h1 align="center">Hi 👋, I'm Atul Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="250" src="https://github.com/Atul-111/Branch/assets/150317656/0da9d26e-3995-4226-aa26-a115ac652fb7">
