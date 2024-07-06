@@ -2,11 +2,10 @@
 <h1 align="center">Hi 👋, I'm Atul Pandey</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul-111&label=Profile%20views&color=0e75b6&style=flat" alt="atul-111" /> </p>
-<img align="right" alt="Coding" width="700" height= "350" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg">
-
-
+<img align="right" alt="Coding" width="700" height= "350" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171827_GwbDHEuhisbGFXRfIpXFhtf7wAvsbLut.jpg"/><br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently working on **Product Catalogue**
 
