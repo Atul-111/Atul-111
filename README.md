@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center" > 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>Android Studio 
   </a> 
@@ -70,4 +70,4 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>SQlite
   </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-111&show_icons=true&locale=en&layout=compact" alt="atul-111" /></p>&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-111&show_icons=true&locale=en&layout=compact" alt="atul-111" /></p>&nbsp;
