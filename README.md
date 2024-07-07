@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atul-pandey-4497a2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atul-pandey-4497a2310" height="30" width="40" /></a>&nbsp;
-<a href="https://fb.com/atul pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atul pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/atulpandey7810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulpandey7810" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pandeyatul604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pandeyatul604" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atul-pandey-4497a2310" target="blank">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>  
+<a href="https://fb.com/atul pandey" target="blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a> 
+<a href="https://instagram.com/atulpandey7810" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<a href="https://www.hackerrank.com/@pandeyatul604" target="blank">  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,5 +68,10 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>SQlite
   </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul-111&show_icons=true&locale=en" alt="atul-111" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-111&show_icons=true&locale=en&layout=compact" alt="atul-111" /></p>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul-111&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" alt="atul-111" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="atul-111" /></p>
+</div>
+
+
