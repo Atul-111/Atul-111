@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <hr>
 
-<img align="right" alt="Coding" width="300" height= "400" src="https://github.com/Atul-111/Atul-111/assets/150317656/55dd6400-17d3-4352-b562-3841b2b9aedd"/>
+<img align="right" alt="Coding" width="300" height= "300" src="https://github.com/Atul-111/Atul-111/assets/150317656/55dd6400-17d3-4352-b562-3841b2b9aedd"/>
 
 - 🔭 I’m currently working on **Product Catalogue** 
 
