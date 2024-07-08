@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React JS & Spring Boot** 
 
-- 💬 Ask me about **Anything** & nbsp
+- 💬 Ask me about **Anything** 
 
 - 📫 How to reach me **pandeyatul.604@gmail.com**
 
