@@ -91,3 +91,23 @@
   <img src="https://streak-stats.demolab.com?user=atul-111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <hr>
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Atul-111/Atul-111/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Atul-111/Atul-111/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Atul-111/Atul-111/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+<hr>
