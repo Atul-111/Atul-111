@@ -80,8 +80,15 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="30"/>SQlite
   </a></p><br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atul-111&label=Profile%20views&color=0e75b6&style=flat&width=90" height="30" alt="atul-111" /> 
-</p>
+  <div align="center">
+    <img
+      align="center"
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atul-111&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false"
+      height="150"
+      alt="Atul-111 Top Languages"
+    />
+  </div>
+
 <hr>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atul-111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="atul-111" />
