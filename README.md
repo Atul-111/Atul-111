@@ -24,116 +24,74 @@
 <hr>
 <hr>
 
+<hr>
+
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android Studio"/>
-        <br>Android Studio
-      </a>
-    </td>
+<p align="center">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android Studio"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
-        <br>Bootstrap
-      </a>
-    </td>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45" alt="Bootstrap"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
-        <br>CSS
-      </a>
-    </td>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://dart.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45" alt="Dart"/>
-        <br>Dart
-      </a>
-    </td>
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45" alt="Dart"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter"/>
-        <br>Flutter
-      </a>
-    </td>
+  <a href="https://flutter.dev" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
-        <br>HTML
-      </a>
-    </td>
-  </tr>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
+  </a>
+</p>
 
-  <tr>
-    <td align="center" width="140">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-        <br>Java
-      </a>
-    </td>
+<p align="center">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-        <br>JavaScript
-      </a>
-    </td>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
-        <br>MongoDB
-      </a>
-    </td>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-        <br>MySQL
-      </a>
-    </td>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-        <br>Python
-      </a>
-    </td>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://react.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="ReactJS"/>
-        <br>ReactJS
-      </a>
-    </td>
-  </tr>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="ReactJS"/>
+  </a>
+</p>
 
-  <tr>
-    <td align="center" width="140">
-      <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring"/>
-        <br>Spring
-      </a>
-    </td>
+<p align="center">
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" alt="Spring"/>
+  </a>&nbsp;&nbsp;
 
-    <td align="center" width="140">
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
-        <br>SQLite
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45" alt="SQLite"/>
+  </a>
+</p>
 
 <br>
-
+<hr>
 <hr>
  <div align="center">
     <img
